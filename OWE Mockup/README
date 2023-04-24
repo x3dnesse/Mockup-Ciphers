@@ -1,0 +1,9 @@
+These python scripts give a simple example of Opportunistic Wireless Encryption
+
+To see each step one by one run the following scripts in this order
+python certgenerator.py
+python sharedsecret.py
+python pmkgenerator.py
+
+To simply see the generation process run the following
+python fullmockup.py
